@@ -22,55 +22,55 @@ profile:
 # Social section
 social:
   website: https://rodolfoferro.xyz
-  github: https://github.com/RodolfoFerro/
-  twitter: https://twitter.com/rodo_ferro/
-  linkedin: https://www.linkedin.com/in/rodolfoferro/
-  facebook:
-  dev: https://dev.to/rodolfoferro
-  medium: https://medium.com/@FerroRodolfo
+#  github: https://github.com/RodolfoFerro/
+#  twitter: https://twitter.com/rodo_ferro/
+#  linkedin: https://www.linkedin.com/in/rodolfoferro/
+#  facebook:
+#  dev: https://dev.to/rodolfoferro
+#  medium: https://medium.com/@FerroRodolfo
 
 
 # Experience section
 experience:
-  item7:
-    position: ML Engineer
-    company: Zetalabs S.L.
-    from: March 2021
-    to: Present
-    description: >
-      Leading the AI development team. Contributing with computer vision tasks for company's product.
-    link: http://codeandomexico.org/
-  item6:
-    position: Community Leader
-    company: Codeando México
-    from: September 2019
-    to: February 2021
-    description: >
-      Codeando México mainly focuses on executing activities that connect society and governments, the usage of technologies and internet-based solutions for civic purposes.
-    link: http://codeandomexico.org/
-  item5:
-    position: Open Data Coordinator
-    company: LAB León / General Direction of Innovation León
-    from: July 2018
-    to: September 2019
-    description: >
-      Pushing efforts to open (and work with) data in the city. Helping the city with trainings for digital jobs, including programming courses on Python and web development.
-  item4:
-    position: AI Consultant
-    company: NULLSEC (Startup)
-    from: July 2019
-    to: September 2019
-    description: >
-      Working as an AI consultant for NULLSEC, a computer security company focused on ethical hacking. Particularly helping in the development of NullRansom, an analyzer-debugger software with the purpose of filtering TCP protocol requests, preventing preventively being targeted by malware and ransomware viruses.
-    link: http://www.nullsec.site
-  item3:
-    position: Lead ML Engineer
-    company: Omdena
-    from: May 2019
-    to: July 2019
-    description: >
-      Lead ML engineer in Omdena's collaborative tree identification challenge to prevent fire outbursts. Contributed with the models developed and the data preprocessing (we develped a Python package for it).
-    link: https://medium.com/omdena/building-ai-for-good-by-the-people-for-the-people-d98ad78b5001
+  # item7:
+  #   position: ML Engineer
+  #   company: Zetalabs S.L.
+  #   from: March 2021
+  #   to: Present
+  #   description: >
+  #     Leading the AI development team. Contributing with computer vision tasks for company's product.
+  #   link: http://codeandomexico.org/
+  # item6:
+  #   position: Community Leader
+  #   company: Codeando México
+  #   from: September 2019
+  #   to: February 2021
+  #   description: >
+  #     Codeando México mainly focuses on executing activities that connect society and governments, the usage of technologies and internet-based solutions for civic purposes.
+  #   link: http://codeandomexico.org/
+  # item5:
+  #   position: Open Data Coordinator
+  #   company: LAB León / General Direction of Innovation León
+  #   from: July 2018
+  #   to: September 2019
+  #   description: >
+  #     Pushing efforts to open (and work with) data in the city. Helping the city with trainings for digital jobs, including programming courses on Python and web development.
+  # item4:
+  #   position: AI Consultant
+  #   company: NULLSEC (Startup)
+  #   from: July 2019
+  #   to: September 2019
+  #   description: >
+  #     Working as an AI consultant for NULLSEC, a computer security company focused on ethical hacking. Particularly helping in the development of NullRansom, an analyzer-debugger software with the purpose of filtering TCP protocol requests, preventing preventively being targeted by malware and ransomware viruses.
+  #   link: http://www.nullsec.site
+  # item3:
+  #   position: Lead ML Engineer
+  #   company: Omdena
+  #   from: May 2019
+  #   to: July 2019
+  #   description: >
+  #     Lead ML engineer in Omdena's collaborative tree identification challenge to prevent fire outbursts. Contributed with the models developed and the data preprocessing (we develped a Python package for it).
+  #   link: https://medium.com/omdena/building-ai-for-good-by-the-people-for-the-people-d98ad78b5001
   item2:
     position: Jr. Python Software Developer
     company: CloudLinux
@@ -162,11 +162,7 @@ tools:
   - github
   - docker
   - digital-ocean
-  - google
-  - google-drive
-  - slack
   - trello
-  - apple
   - linux
   - raspberry-pi
 extra_skills:
@@ -185,62 +181,62 @@ workshops:
     workshop: AI in modern times, February 2020.
     material:
     link: https://www.ted.com/tedx/events/35293
-  item1:
-    event: PyCon Colombia 2020
-    workshop: 'Workshop – DLaaS: Building cloud-based intelligent solutions, February 2020.'
-    material: https://github.com/RodolfoFerro/PyConCo20
-    link: https://www.pycon.co/ponentes/rodolfo-ferro/
-  item2:
-    event: International Meeting on Artificial Intelligence and its Applications (RIIAA) 2.0.
-    workshop: Workshop – Deep Learning as a Service (DLaaS), August 2019.
-    material: https://github.com/RodolfoFerro/RIIAA19-DLaaS
-    link: https://riiaa.org
-  item3:
-    event: LAB León Web Dev Crash Course 2019.
-    workshop: Crash Course – Introduction to Web Development with Python and Flask, August 2019.
-    material: https://github.com/RodolfoFerro/Flask101
-    link: https://flask101.glitch.me
-  item4:
-    event: DevDay León 2019 by Hackademy.
-    workshop: Workshop – (AI) API development with Python, August 2019.
-    material: https://github.com/RodolfoFerro/PythonBaseAPI
-    link:
-  item5:
-    event: Clubes de Ciencia México 2019.
-    workshop: Workshop – Revealing the Hidden Hyperspectrum with Artificial Neurons, July 2019.
-    material: https://rodolfoferro.xyz/hyperspectrum/
-    link:
-  item6:
-    event: DevDay Mérida 2019.
-    workshop: Workshop – Artificial Intelligence with Python, July 2019.
-    material: https://github.com/RodolfoFerro/DevDayMid2019
-    link:
-  item7:
-    event: Talent Land 2019.
-    workshop: Talk – A.I. in modern times, April 2019.
-    material:
-    link: https://jaliscotalentland2019.sched.com/event/MzAs/inteligencia-artificial-en-tiempos-modernos
-  item8:
-    event: PythonDay México 2018.
-    workshop: Talk – Data Science with Python, December 2018.
-    material: https://github.com/RodolfoFerro/DataSciPy
-    link:
-  item9:
-    event: PythonDay México 2018.
-    workshop: Workshop – Machine Learning as a Service (MLaaS), November 2018.
-    material: https://github.com/RodolfoFerro/MLaaS
-    link:
-  item10:
-    event: HERE Hackathon at Technological University of Leon.
-    workshop: Mentor on the event. Talk – Integration of Technological Solutions, November 2018.
-    material: https://github.com/RodolfoFerro/HereHackathon
-    link:
-  item11:
-    event: 6th. International Conference in Software Engineering Research and Innovation (CONISOFT).
-    workshop: Workshop – Introduction to Neural Networks with Keras, October 2018.
-    material: https://github.com/RodolfoFerro/CONISOFT2018
-    link: http://conisoft.org/2018/public/
-  reference: https://rodolfoferro.xyz/resume/
+  # item1:
+  #   event: PyCon Colombia 2020
+  #   workshop: 'Workshop – DLaaS: Building cloud-based intelligent solutions, February 2020.'
+  #   material: https://github.com/RodolfoFerro/PyConCo20
+  #   link: https://www.pycon.co/ponentes/rodolfo-ferro/
+  # item2:
+  #   event: International Meeting on Artificial Intelligence and its Applications (RIIAA) 2.0.
+  #   workshop: Workshop – Deep Learning as a Service (DLaaS), August 2019.
+  #   material: https://github.com/RodolfoFerro/RIIAA19-DLaaS
+  #   link: https://riiaa.org
+  # item3:
+  #   event: LAB León Web Dev Crash Course 2019.
+  #   workshop: Crash Course – Introduction to Web Development with Python and Flask, August 2019.
+  #   material: https://github.com/RodolfoFerro/Flask101
+  #   link: https://flask101.glitch.me
+  # item4:
+  #   event: DevDay León 2019 by Hackademy.
+  #   workshop: Workshop – (AI) API development with Python, August 2019.
+  #   material: https://github.com/RodolfoFerro/PythonBaseAPI
+  #   link:
+  # item5:
+  #   event: Clubes de Ciencia México 2019.
+  #   workshop: Workshop – Revealing the Hidden Hyperspectrum with Artificial Neurons, July 2019.
+  #   material: https://rodolfoferro.xyz/hyperspectrum/
+  #   link:
+  # item6:
+  #   event: DevDay Mérida 2019.
+  #   workshop: Workshop – Artificial Intelligence with Python, July 2019.
+  #   material: https://github.com/RodolfoFerro/DevDayMid2019
+  #   link:
+  # item7:
+  #   event: Talent Land 2019.
+  #   workshop: Talk – A.I. in modern times, April 2019.
+  #   material:
+  #   link: https://jaliscotalentland2019.sched.com/event/MzAs/inteligencia-artificial-en-tiempos-modernos
+  # item8:
+  #   event: PythonDay México 2018.
+  #   workshop: Talk – Data Science with Python, December 2018.
+  #   material: https://github.com/RodolfoFerro/DataSciPy
+  #   link:
+  # item9:
+  #   event: PythonDay México 2018.
+  #   workshop: Workshop – Machine Learning as a Service (MLaaS), November 2018.
+  #   material: https://github.com/RodolfoFerro/MLaaS
+  #   link:
+  # item10:
+  #   event: HERE Hackathon at Technological University of Leon.
+  #   workshop: Mentor on the event. Talk – Integration of Technological Solutions, November 2018.
+  #   material: https://github.com/RodolfoFerro/HereHackathon
+  #   link:
+  # item11:
+  #   event: 6th. International Conference in Software Engineering Research and Innovation (CONISOFT).
+  #   workshop: Workshop – Introduction to Neural Networks with Keras, October 2018.
+  #   material: https://github.com/RodolfoFerro/CONISOFT2018
+  #   link: http://conisoft.org/2018/public/
+  # reference: https://rodolfoferro.xyz/resume/
 
 
 # Projects section
@@ -253,70 +249,70 @@ projects:
     github: https://github.com/RodolfoFerro/flask-resume-template/
     img: flask-resume-template.png
     tags: [Flask, Python, Bootstrap]
-  item2:
-    title: DLaaS
-    subtitle: Google Colab Notebooks
-    description: A set of Google Colab notebooks and a Flask base API to learn and serve Deep Learning. Prepared for my workshop at RIIAA 2.0.
-    link: https://rodolfoferro.xyz/RIIAA19-DLaaS/
-    github: https://github.com/RodolfoFerro/RIIAA19-DLaaS
-    img: riiaa.png
-    tags: [Python, Tensorflow 2.0, Keras, Deep Learning]
-  item3:
-    title: impipes
-    subtitle: Python package
-    description: A Python package to build image pipelines in a simple way. Preprocess data to feed neural networks in an easier way.
-    link: https://impipes.readthedocs.io/en/latest/
-    github: https://github.com/RodolfoFerro/impipes
-    img: impipes.png
-    tags: [Python, PyPI, Images, Data Preprocessing, Documentation]
-  item4:
-    title: MNIST Web Classifier
-    subtitle: A CNN served as a web platform
-    description: Classify handwritten digits directly on your computer or your phone. As simple as taking a picture of a written random multi-digit number.
-    link: https://flask-micro-template.glitch.me
-    github: https://github.com/RodolfoFerro/flask-micro-template
-    img: keras-mnist.png
-    tags: [Python, Bootstrap, Web Platform, Flask, MNIST, CNN, Keras]
-  item5:
-    title: EmojiMerida
-    subtitle: Google Colab Notebook
-    description: A real-time coding session with an emotion recognizer on facial expressions for a Data Mérida meetup (01/04/2019). The Ai was developed with Python and Keras.
-    link: https://colab.research.google.com/github/RodolfoFerro/EmojiMerida/blob/master/Data_M%C3%A9rida.ipynb
-    github:
-    img: data-merida.png
-    tags: [Python, Computer Vision, Keras, Neural Networks]
-  item6:
-    title: PythonBaseAPI
-    subtitle: API template built with Flask
-    description: API template built with Python and Flask. Serve an Iris classifier as an API. Content for a workshop.
-    link: https://docs.google.com/presentation/d/e/2PACX-1vSc7Q82-lwQ8fKgR5WcT7Y0r9kotcYiNuyYjHRlF-fdhf6lkIrF9B_2akvzL-ZQ6ZAyT1lxM9f0mPdx/pub?start=false&loop=false&delayms=3000
-    github: https://github.com/RodolfoFerro/PythonBaseAPI
-    img: python-base-api.png
-    tags: [Flask, Python, API, scikit-learn]
-  item7:
-    title: flask-micro-template
-    subtitle: A micro template built with Flask
-    description: A micro template built with Flask and Bootstrap. Used for minimal testing in Glitch.
-    link: https://flask-micro-template.glitch.me
-    github: https://github.com/RodolfoFerro/flask-micro-template
-    img: flask-micro-template.png
-    tags: [Flask, Python, Bootstrap]
-  item8:
-    title: moltransform
-    subtitle: Python package
-    description: Molecular transformations for graphic displaying using Cartesian coordinates.
-    link: https://pypi.org/project/moltransform/
-    github: https://github.com/RodolfoFerro/moltransform
-    img: moltransform.png
-    tags: [Python, PyPI, Molecules, Rigid Transformations]
-  item9:
-    title: FitbitVersa-SimpleOmnitrix
-    subtitle: Fitbit Versa Clockface
-    description: My first clock face for Fitbit Versa, inspired in Ben 10's Omnitrix.
-    link: https://gallery.fitbit.com/details/6c75fa41-8de0-41db-b851-f21f7447018b
-    github: https://github.com/RodolfoFerro/FitbitVersa-SimpleOmnitrix
-    img: simple-omnitrix.png
-    tags: [TypeScript, Ben 10, Fitbit, Fitbit Versa]
+  # item2:
+  #   title: DLaaS
+  #   subtitle: Google Colab Notebooks
+  #   description: A set of Google Colab notebooks and a Flask base API to learn and serve Deep Learning. Prepared for my workshop at RIIAA 2.0.
+  #   link: https://rodolfoferro.xyz/RIIAA19-DLaaS/
+  #   github: https://github.com/RodolfoFerro/RIIAA19-DLaaS
+  #   img: riiaa.png
+  #   tags: [Python, Tensorflow 2.0, Keras, Deep Learning]
+  # item3:
+  #   title: impipes
+  #   subtitle: Python package
+  #   description: A Python package to build image pipelines in a simple way. Preprocess data to feed neural networks in an easier way.
+  #   link: https://impipes.readthedocs.io/en/latest/
+  #   github: https://github.com/RodolfoFerro/impipes
+  #   img: impipes.png
+  #   tags: [Python, PyPI, Images, Data Preprocessing, Documentation]
+  # item4:
+  #   title: MNIST Web Classifier
+  #   subtitle: A CNN served as a web platform
+  #   description: Classify handwritten digits directly on your computer or your phone. As simple as taking a picture of a written random multi-digit number.
+  #   link: https://flask-micro-template.glitch.me
+  #   github: https://github.com/RodolfoFerro/flask-micro-template
+  #   img: keras-mnist.png
+  #   tags: [Python, Bootstrap, Web Platform, Flask, MNIST, CNN, Keras]
+  # item5:
+  #   title: EmojiMerida
+  #   subtitle: Google Colab Notebook
+  #   description: A real-time coding session with an emotion recognizer on facial expressions for a Data Mérida meetup (01/04/2019). The Ai was developed with Python and Keras.
+  #   link: https://colab.research.google.com/github/RodolfoFerro/EmojiMerida/blob/master/Data_M%C3%A9rida.ipynb
+  #   github:
+  #   img: data-merida.png
+  #   tags: [Python, Computer Vision, Keras, Neural Networks]
+  # item6:
+  #   title: PythonBaseAPI
+  #   subtitle: API template built with Flask
+  #   description: API template built with Python and Flask. Serve an Iris classifier as an API. Content for a workshop.
+  #   link: https://docs.google.com/presentation/d/e/2PACX-1vSc7Q82-lwQ8fKgR5WcT7Y0r9kotcYiNuyYjHRlF-fdhf6lkIrF9B_2akvzL-ZQ6ZAyT1lxM9f0mPdx/pub?start=false&loop=false&delayms=3000
+  #   github: https://github.com/RodolfoFerro/PythonBaseAPI
+  #   img: python-base-api.png
+  #   tags: [Flask, Python, API, scikit-learn]
+  # item7:
+  #   title: flask-micro-template
+  #   subtitle: A micro template built with Flask
+  #   description: A micro template built with Flask and Bootstrap. Used for minimal testing in Glitch.
+  #   link: https://flask-micro-template.glitch.me
+  #   github: https://github.com/RodolfoFerro/flask-micro-template
+  #   img: flask-micro-template.png
+  #   tags: [Flask, Python, Bootstrap]
+  # item8:
+  #   title: moltransform
+  #   subtitle: Python package
+  #   description: Molecular transformations for graphic displaying using Cartesian coordinates.
+  #   link: https://pypi.org/project/moltransform/
+  #   github: https://github.com/RodolfoFerro/moltransform
+  #   img: moltransform.png
+  #   tags: [Python, PyPI, Molecules, Rigid Transformations]
+  # item9:
+  #   title: FitbitVersa-SimpleOmnitrix
+  #   subtitle: Fitbit Versa Clockface
+  #   description: My first clock face for Fitbit Versa, inspired in Ben 10's Omnitrix.
+  #   link: https://gallery.fitbit.com/details/6c75fa41-8de0-41db-b851-f21f7447018b
+  #   github: https://github.com/RodolfoFerro/FitbitVersa-SimpleOmnitrix
+  #   img: simple-omnitrix.png
+  #   tags: [TypeScript, Ben 10, Fitbit, Fitbit Versa]
 
 
 # Certifications and awards section
